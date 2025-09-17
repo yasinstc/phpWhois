@@ -509,7 +509,7 @@ return array(
     'tools'                  => 'whois.donuts.co',
     'town'                   => 'whois.donuts.co',
     'toys'                   => 'whois.donuts.co',
-    'tr'                     => 'whois.nic.tr',
+    'tr'                     => 'whois.trabis.gov.tr',
     'trade'                  => 'whois.nic.trade',
     'training'               => 'whois.donuts.co',
     'travel'                 => 'whois.nic.travel',
